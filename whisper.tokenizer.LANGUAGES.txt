@@ -1,0 +1,93 @@
+af: afrikaans
+ar: arabic
+hy: armenian
+az: azerbaijani
+be: belarusian
+bs: bosnian
+bg: bulgarian
+ca: catalan
+zh: chinese
+hr: croatian
+cs: czech
+da: danish
+nl: dutch
+en: english
+et: estonian
+fi: finnish
+fr: french
+gl: galician
+de: german
+el: greek
+he: hebrew
+hi: hindi
+hu: hungarian
+is: icelandic
+id: indonesian
+it: italian
+ja: japanese
+kn: kannada
+kk: kazakh
+ko: korean
+lv: latvian
+lt: lithuanian
+mk: macedonian
+ms: malay
+mi: maori
+mr: marathi
+ne: nepali
+no: norwegian
+fa: persian
+pl: polish
+pt: portuguese
+ro: romanian
+ru: russian
+sr: serbian
+sk: slovak
+sl: slovenian
+es: spanish
+sw: swahili
+sv: swedish
+tl: tagalog
+ta: tamil
+th: thai
+tr: turkish
+uk: ukrainian
+ur: urdu
+vi: vietnamese
+cy: welsh
+ca: valencian (alias for Catalan)
+nl: flemish (alias for Dutch)
+es: castilian (alias for Spanish)
+zh: mandarin (alias for Chinese)
+ro: moldavian (alias for Romanian)
+si: sinhalese (alias for Sinhala)
+ht: haitian (alias for Haitian Creole)
+lb: letzeburgesch (alias for Luxembourgish)
+pa: panjabi (alias for Punjabi)
+ps: pushto (alias for Pashto)
+my: burmese (alias for Myanmar)
+af: afrikaans
+oc: occitan
+ka: georgian
+tg: tajik
+sd: sindhi
+gu: gujarati
+am: amharic
+yi: yiddish
+lo: lao
+uz: uzbek
+fo: faroese
+mt: maltese
+sa: sanskrit
+my: burmese (myanmar)
+bo: tibetan
+mg: malagasy
+as: assamese
+tt: tatar
+haw: hawaiian
+ln: lingala
+ha: hausa
+ba: bashkir
+jw: javanese
+su: sundanese
+yue: cantonese
